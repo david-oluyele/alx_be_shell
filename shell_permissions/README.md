@@ -4,3 +4,4 @@
 4-empty: This script creates an empty file called hello
 5-execute: This script adds execute permission to the owner of the file hello
 6-multiple_permissions: This script adds execute permission to the owner and the group owner, and read permission to the other users, of the file hello
+9-John_Doe: This script sets the permissions of the file hello to -rwxr-x-wx
